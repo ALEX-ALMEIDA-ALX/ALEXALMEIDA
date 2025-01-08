@@ -1,4 +1,4 @@
-Meu perfil profissional no GitHub
+ <h2 align="center">My Professional Profile on GitHub</h2>
 
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 
